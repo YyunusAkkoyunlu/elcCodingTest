@@ -1,0 +1,85 @@
+/**
+* This is the main stylesheet for the sass compiler, all imports should stem from this initial page.
+* It contains the universal styles of the site, the imports and various other items.
+*/
+// Colours and settings
+$siteWidth: 1280px;
+
+// Imports
+@import '_menu.scss';
+@import '_home.scss';
+
+
+html, html * {
+    box-sizing: border-box; padding: 0; margin: 0;
+}
+
+// These are used to ensure the app runs full display
+html, body {
+    width: 100%; height: 100%;
+}
+
+// Main body content
+main {
+
+    // The main body of the page
+    width: 100%;
+    height: 100%;
+    display: block;
+    position: relative;
+
+    * {
+        -webkit-font-smoothing: antialiased;
+    }
+    
+    // The links for the app all have these main attributes
+    a {
+        transition: opacity .5s;
+
+        &:hover {
+            opacity: 0.7;
+        }
+        &:visited {
+            color: inherit;
+        }
+    }
+
+    // Inner Divs are used for general full width containers
+    div.inner { 
+        width: 100%;
+        height: auto;
+        background-color: rgb(150, 0, 0);
+    }
+
+// self coded //
+    header.menu div.header-result {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        border-top: solid 1px #bbb;
+        border-bottom: solid 1px #bbb;
+    }
+
+    header.menu div.item-row {
+        display: inline-block;
+        width: 25%;
+        vertical-align: top;
+        padding: 2%;
+    }
+
+    header.menu div.item-row img.item-picture {
+        height:100px;
+        width:80px;
+    }
+
+    header.menu div.item-row p.item-name {
+        font-weight: 700;
+        font-family: 'Bebas Neue', Arial, Helvetica, sans-serif;
+    }
+
+    header.menu div.item-row p.item-about {
+        font-family: 'Bebas Neue', Arial, Helvetica, sans-serif;
+        border-top: 1px solid #000;
+        padding: 1rem 0;
+    }
+
+}

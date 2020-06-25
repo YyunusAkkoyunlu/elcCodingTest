@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="825754e8-ced5-41e1-bf06-c1741a1dd875" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/elc-coding-test-master-aede79cc272cea41a964edefb1387f125bfca040.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.local_server/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.local_server/css/main.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.local_server/img/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.local_server/img/products/N08X_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.local_server/img/products/N08Y_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.local_server/img/products/N098_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.local_server/img/products/N0CA_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.local_server/img/products/N0EN01_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.local_server/img/products/N0EY01_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.local_server/img/products/N0FP_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.local_server/img/products/N0H101_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.local_server/img/products/N0J801_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.local_server/img/products/N0J901_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.local_server/img/products/N0PL01_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.local_server/img/products/N0YJ01_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.local_server/img/products/N12R01_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.local_server/img/products/N13J01_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.local_server/img/products/N15E01_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.local_server/img/products/N16201_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.local_server/img/products/N16401_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.local_server/img/products/N16501_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.local_server/img/products/N17R01_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.local_server/img/products/N19601_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.local_server/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.local_server/js/main.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.local_server/js/main.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/products/N08X_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/products/N08Y_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/products/N098_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/products/N0CA_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/products/N0EN01_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/products/N0EY01_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/products/N0FP_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/products/N0H101_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/products/N0J801_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/products/N0J901_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/products/N0PL01_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/products/N0YJ01_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/products/N12R01_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/products/N13J01_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/products/N15E01_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/products/N16201_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/products/N16401_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/products/N16501_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/products/N17R01_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/products/N19601_430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/_home.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/_itemsResult.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/_menu.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/scripts/components/Items/ItemRow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/scripts/components/Items/ItemsHeader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/scripts/components/Items/ItemsList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/scripts/components/Items/ItemsResult.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/scripts/components/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/scripts/components/menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/scripts/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/includes/foot.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/includes/head.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/index.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/general.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/template.data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/.logfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/data.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/server/app.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/app/scripts/components/menu.js" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1diBu4RPB8oIX4hRbHjqLMGNZP6" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="825754e8-ced5-41e1-bf06-c1741a1dd875" name="Default Changelist" comment="" />
+      <created>1592898252469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592898252469</updated>
+      <workItem from="1592898255140" duration="1942000" />
+      <workItem from="1592998656038" duration="35364000" />
+      <workItem from="1593096726703" duration="295000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
